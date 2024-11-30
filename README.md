@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Alfred-Nagy
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Welcome to Alfred's profile!
