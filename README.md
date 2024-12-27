@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
-
-I'm **Alfred Nagy**, a passionate **Embedded Systems Engineer** specializing in **AUTOSAR**, **Bootloader**, and **Microcontroller Programming**. Currently completing my degree at **Helwan University** with a strong focus on automotive technology.
-
+<h3 align="center">
+  I'm **Alfred Nagy**, a passionate **Embedded Systems Engineer** specializing in **AUTOSAR**, **Bootloader**, and **Microcontroller Programming**. Currently completing my degree at **Helwan University** with a strong focus on automotive technology.<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+</h3>
 ---
 
 ### 🚀 **About Me**
